@@ -1,0 +1,95 @@
+
+
+
+header{
+    background-image: url(../images/home.jpeg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+header .info{
+    margin-top: 200px ;
+}
+
+h1{
+    font-size: 300%;
+}
+
+
+header .info p{
+    font-size: 200%;
+} 
+
+/*      /header    */
+
+
+.just{
+    height: 168px !important;
+}
+
+.city a{
+    text-decoration: none;
+    width: 100%;
+    display:inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+
+}
+
+.cairo a{
+    background-image:url(../images/cairo2.jpeg) ;
+    min-height: 333px;
+}
+
+.kuala a{
+    background-image:url(../images/kuala\ lumbour.jpeg) ;
+    min-height: 333px;
+}
+
+
+.sharm  a{
+    background-image:url(../images/sharm.jpeg) ;
+    min-height: 500px;
+}
+
+.dubai  a{
+    background-image:url(../images/dubai.jpeg) ;
+    min-height: 500px;
+}
+
+
+.istanbul  a{
+    background-image:url(../images/istanbul.jpeg) ;
+    min-height: 500px;
+}
+
+.images img{
+    height: 500px;
+}
+
+
+footer ul{
+    list-style: none;
+
+}
+
+footer ul li{
+    margin-left: 15px;
+}
+
+social {
+    margin-left: 0%;
+}
+
+
+
+
+
+
+
+
+
+
